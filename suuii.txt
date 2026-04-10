@@ -6,17 +6,13 @@ To setup this project ==========================================================
 
 2.Download bun system wise
 
+3.clone the github repo 
+
 3.Go inside the frontend folder and type the following commands :
 
 
-			(a) bun create vite .
+			(a) Run bun install
 
-			(b) select svelte 
-
-			(c) select javascript as the variant
-
-			(d) Install with bun and start now? -----> select no 
-
-			ps : do not run bun install and bun dev
+			(b) Run bun dev (to start the fornted program)
 
 
