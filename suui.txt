@@ -1,0 +1,3 @@
+Note for Subigya : 
+
+1.download Python 3.12.3 for this project
