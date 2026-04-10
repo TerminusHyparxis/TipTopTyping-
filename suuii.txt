@@ -1,0 +1,22 @@
+Note for Subigya : 
+
+To setup this project ===============================================================================================
+
+1.Download Python  version 3.12.3 for this project system wise
+
+2.Download bun system wise
+
+3.Go inside the frontend folder and type the following commands :
+
+
+			(a) bun create vite .
+
+			(b) select svelte 
+
+			(c) select javascript as the variant
+
+			(d) Install with bun and start now? -----> select no 
+
+			ps : do not run bun install and bun dev
+
+
